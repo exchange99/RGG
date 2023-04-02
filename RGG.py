@@ -86,7 +86,3 @@ elif level == "three":
     level_three()
 else:
     print("Usage: 'one' for level one, 'two' for level two, 'three' for level three")
-
-#level_one()
-#level_two()
-#level_three()
